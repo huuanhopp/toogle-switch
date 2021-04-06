@@ -1,11 +1,10 @@
 /* eslint-disable no-invalid-this*/
 /**
- * toggle-switch-react-native
+ * toggle-switch-resize-react-native
  * Toggle Switch component for react native, it works on iOS and Android
- * https://github.com/aminebenkeroum/toggle-switch-react-native
- * Email:amine.benkeroum@gmail.com
- * Blog: https://medium.com/@aminebenkeroum/
- * @benkeroumamine
+ * https://github.com/huuanhopp/toogle-switch.git
+ * Email:huuanhopp@gmail.com
+ * custom by @hanopp
  */
 
 import React from 'react';
