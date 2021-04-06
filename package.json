@@ -1,6 +1,6 @@
 {
   "name": "toggle-switch-resize",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "toogle switch custom size",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/huuanhopp/toogle-switch/issues"
   },
-  "homepage": "https://github.com/huuanhopp/toogle-switch#readme"
+  "homepage": "hhttps://github.com/huuanhopp/toogle-switch/blob/master/README.md"
 }
